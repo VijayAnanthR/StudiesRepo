@@ -1,1 +1,4 @@
 This is just a sample document to learn and test functionalities in GIT
+
+Adding few extra lines to this document
+to understand the working of branches in GIT
